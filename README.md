@@ -1,5 +1,7 @@
 # app-ssr
 
+## vue.js 服务端渲染基础样例（SSR）
+
 ## Project setup
 ```
 npm install
