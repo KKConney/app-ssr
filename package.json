@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "koa": "^2.13.0",
     "koa-static": "^5.0.0",
     "node-sass": "^4.14.1",
